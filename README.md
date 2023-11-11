@@ -1,4 +1,4 @@
-这是一个 [Next.js](https://nextjs.org/) 项目，开始前请先阅读[项目规范](配置源码管理.md)
+# 这是一个 [Next.js](https://nextjs.org/) 项目，开始前请先阅读[项目规范](配置源码管理.md)
 
 ## 开始
 
