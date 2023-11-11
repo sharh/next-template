@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+# 校验分支名
+# npx validate-branch-name
+npx lint-staged
